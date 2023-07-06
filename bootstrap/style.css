@@ -1,0 +1,12 @@
+
+
+
+@media screen and (max-width:988px) {
+    li{
+        background-color: rgb(17, 162, 92);
+    }
+    li:hover{
+        background-color: rgb(64, 180, 124);
+    }
+    
+}
